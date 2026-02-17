@@ -5,7 +5,7 @@ return [
     'documentations' => [
         'default' => [
             'api' => [
-                'title' => 'Money Tracker API',
+                'title' => 'Laravel API Starter Kit',
             ],
 
             'routes' => [

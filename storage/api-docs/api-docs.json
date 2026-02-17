@@ -1,7 +1,7 @@
 {
     "openapi": "3.0.0",
     "info": {
-        "title": "Money Tracker API",
+        "title": "Laravel API Starter Kit",
         "description": "API for personal financial management",
         "contact": {
             "name": "API Support",

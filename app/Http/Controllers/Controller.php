@@ -6,7 +6,7 @@ use OpenApi\Attributes as OA;
 
 #[OA\Info(
     version: '1.0.0',
-    title: 'Money Tracker API',
+    title: 'Laravel API Starter Kit',
     description: 'API for personal financial management',
     contact: new OA\Contact(
         name: 'API Support',
